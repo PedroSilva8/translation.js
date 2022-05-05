@@ -1,6 +1,6 @@
 {
-    "name": "translation.js",
-    "version": "1.0.0",
+    "name": "@pedro_s/translation.js",
+    "version": "1.0.1",
     "description": "A simple lightweight translation helper",
     "author": "Pedro S.",
     "main": "lib/index.js",
